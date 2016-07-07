@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TagGroup">
+        <attr name="lineMargin" format="dimension" />
+        <attr name="tagMargin" format="dimension" />
+        <attr name="textPaddingLeft" format="dimension" />
+        <attr name="textPaddingRight" format="dimension" />
+        <attr name="textPaddingTop" format="dimension" />
+        <attr name="textPaddingBottom" format="dimension" />
+        <attr name="deleteTag" format="boolean" />
+        <attr name="tagTextSize" format="dimension" />
+        <attr name="tagBackgroundColor" format="color" />
+        <attr name="tagBackgroundPressedColor" format="color" />
+        <attr name="textColor" format="color" />
+    </declare-styleable>
+</resources>
